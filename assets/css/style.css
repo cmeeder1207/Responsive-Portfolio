@@ -248,4 +248,22 @@ nav {
 margin-right: 25%}
 
 
-.plsWork{height: 80%}}
+.auth-image {
+  float: left;
+  width: 550px;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.work{
+  float: left;
+  width: 550px;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+
+
+}}
