@@ -167,6 +167,7 @@ h3, h2 {
   text-align: center;
   background: #4aaaa5;
   border-bottom: 0;
+  margin-right: 5px;
 }
 
 .auth-image {
@@ -224,16 +225,27 @@ input[type=submit] {
 
 @media screen and (max-width: 980px){
 .main-section{width: 68%}
-.pic{size:15%}
+
 
 }
+@media screen and (max-width: 979px){
+  .main-section{width: 68%}
+  
+  
+  }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 850px){
 .main-section{width:100%}
-.pic{size:15%}
+
 }
 
-@media screen and(max-width:640px){
-  .main-section{width:100%}
-.pic{size: 60%}
-h1{width: 60%}}
+@media screen and (max-width:650px){
+
+#logo{width: 100%;}
+
+nav {
+
+margin-right: 25%}
+
+
+.plsWork{height: 80%}}
